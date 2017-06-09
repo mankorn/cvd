@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+
+<head>
+  <meta charset="utf-8">
+  <title>匡恩UI设计指南</title>
+  <link rel="stylesheet" href="js/lib/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/app.min.css">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/github.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.css">
+  <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/simple-line-icons/css/simple-line-icons.css">
+  <link rel="stylesheet" href="css/font.css">
+  <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body ng-controller="appCtrl">
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">UI Guideline </a>
+    </div>
+
+    <ul class="nav navbar-nav navbar-right main-nav">
+      <li><a href="" ng-click="openPage('introduce')" ng-class="{'active': selectedItem === 'introduce'}">介绍</a></li>
+      <li><a href="" ng-click="openPage('design.distance')"
+             ng-class="{'active': selectedItem.indexOf('design') !== -1}">设计</a></li>
+      <li><a href="" ng-click="openPage('development.started')"
+             ng-class="{'active': selectedItem.indexOf('development') !== -1}">开发</a></li>
+      <li><a href="" ng-click="openPage('operate')" ng-class="{'active': selectedItem === 'operate'}">运营</a></li>
+    </ul>
+  </div>
+
+</nav>
+<div class="container-fluid main-wrapper">
+  <div ui-view="main"></div>
+</div>
+<script src="js/lib/angular/angular.min.js"></script>
+<script src="js/lib/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script src="js/lib/jquery/dist/jquery.min.js"></script>
+<script src="js/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="js/lib/oclazyload/dist/ocLazyLoad.min.js"></script>
+<script src="js/lib/angular-animate/angular-animate.min.js"></script>
+<script src="js/rainbow-custom.min.js"></script>
+<script src="js/router.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+
+</html>

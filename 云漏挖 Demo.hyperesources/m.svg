@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1571px" height="396px" viewBox="0 0 1571 396" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="388.485274" cy="92.2299035" rx="7.81329114" ry="7.5"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1856601 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="line" opacity="0.08" transform="translate(27.523136, 29.000000)">
+                <rect id="Rectangle-9-Copy" fill="#F5F5F5" x="0.052351898" y="268.954039" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-2" fill="#F5F5F5" x="0.052351898" y="235.393738" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-3" fill="#F5F5F5" x="0.052351898" y="201.833437" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-4" fill="#F5F5F5" x="0.052351898" y="168.273136" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-5" fill="#F5F5F5" x="0.052351898" y="134.712835" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-6" fill="#F5F5F5" x="0.052351898" y="101.152534" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-7" fill="#F5F5F5" x="0.052351898" y="67.5922328" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-8" fill="#F5F5F5" x="0.052351898" y="34.0319317" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-9" fill="#F5F5F5" x="0.052351898" y="0.471630714" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-10-Copy" fill="#F5F5F5" x="109.904595" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-2" fill="#F5F5F5" x="207.202296" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-3" fill="#F5F5F5" x="304.499997" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-4" fill="#F5F5F5" x="403.367016" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-5" fill="#F5F5F5" x="500.664717" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-6" fill="#F5F5F5" x="597.962418" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-7" fill="#F5F5F5" x="695.260119" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-8" fill="#F5F5F5" x="793.619469" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10" fill="#FFFFFF" x="12.606894" y="1.09398443" width="1.04177215" height="304.127673"></rect>
+                <rect id="Rectangle-9" fill="#FFFFFF" transform="translate(404.418183, 303.383693) scale(1, -1) translate(-404.418183, -303.383693) " x="14.1762117" y="302.836701" width="780.483942" height="1.09398443"></rect>
+            </g>
+            <g id="line-copy" opacity="0.08" transform="translate(808.523136, 29.000000)">
+                <rect id="Rectangle-9-Copy" fill="#F5F5F5" x="0.052351898" y="268.954039" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-2" fill="#F5F5F5" x="0.052351898" y="235.393738" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-3" fill="#F5F5F5" x="0.052351898" y="201.833437" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-4" fill="#F5F5F5" x="0.052351898" y="168.273136" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-5" fill="#F5F5F5" x="0.052351898" y="134.712835" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-6" fill="#F5F5F5" x="0.052351898" y="101.152534" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-7" fill="#F5F5F5" x="0.052351898" y="67.5922328" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-8" fill="#F5F5F5" x="0.052351898" y="34.0319317" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-9-Copy-9" fill="#F5F5F5" x="0.052351898" y="0.471630714" width="793.83038" height="1.09398443"></rect>
+                <rect id="Rectangle-10-Copy" fill="#F5F5F5" x="109.904595" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-2" fill="#F5F5F5" x="207.202296" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-3" fill="#F5F5F5" x="304.499997" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-4" fill="#F5F5F5" x="403.367016" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-5" fill="#F5F5F5" x="500.664717" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-6" fill="#F5F5F5" x="597.962418" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10-Copy-7" fill="#F5F5F5" x="695.260119" y="1.64097665" width="1.04177215" height="300.845719"></rect>
+                <rect id="Rectangle-10" fill="#FFFFFF" x="12.606894" y="1.09398443" width="1.04177215" height="304.127673"></rect>
+                <rect id="Rectangle-9" fill="#FFFFFF" transform="translate(404.418183, 303.383693) scale(1, -1) translate(-404.418183, -303.383693) " x="14.1762117" y="302.836701" width="780.483942" height="1.09398443"></rect>
+            </g>
+            <g id="y" transform="translate(0.897086, 19.959493)" fill-opacity="0.56" font-family="PingFangSC-Regular, PingFang SC" fill="#FFFFFF" font-size="12" font-weight="normal">
+                <text id="10">
+                    <tspan x="11.5277664" y="312.775984">10</tspan>
+                </text>
+                <text id="20">
+                    <tspan x="9.13976637" y="275.303986">20</tspan>
+                </text>
+                <text id="30">
+                    <tspan x="9.13976637" y="237.831988">30</tspan>
+                </text>
+                <text id="40">
+                    <tspan x="9.13976637" y="200.35999">40</tspan>
+                </text>
+                <text id="50">
+                    <tspan x="9.13976637" y="162.887992">50</tspan>
+                </text>
+                <text id="60">
+                    <tspan x="9.13976637" y="125.415994">60</tspan>
+                </text>
+                <text id="70">
+                    <tspan x="9.77576637" y="87.943996">70</tspan>
+                </text>
+                <text id="80">
+                    <tspan x="9.13976637" y="50.471998">80</tspan>
+                </text>
+                <text id="90">
+                    <tspan x="9.13976637" y="13">90</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(35.000000, 345.000000)" font-weight="normal" font-family="PingFangSC-Regular, PingFang SC" fill="#FFFFFF" font-size="12">
+                <text id="12/12-16:54" fill-opacity="0.54">
+                    <tspan x="0.837983014" y="34.9106669">12/12 16:54</tspan>
+                </text>
+                <text id="12/12-16:55" fill-opacity="0.54">
+                    <tspan x="391.598105" y="34.9106669">12/12 16:55</tspan>
+                </text>
+                <g id="x" transform="translate(0.837983, 0.672655)" fill-opacity="0.56">
+                    <text id="0">
+                        <tspan x="0" y="13">0</tspan>
+                    </text>
+                    <text id="15">
+                        <tspan x="97.297701" y="13">15</tspan>
+                    </text>
+                    <text id="30">
+                        <tspan x="194.595402" y="13">30</tspan>
+                    </text>
+                    <text id="45">
+                        <tspan x="291.893103" y="13">45</tspan>
+                    </text>
+                    <text id="0-copy-4">
+                        <tspan x="389.190804" y="13">0</tspan>
+                    </text>
+                    <text id="15">
+                        <tspan x="486.488505" y="13">15</tspan>
+                    </text>
+                    <text id="30">
+                        <tspan x="583.786206" y="13">30</tspan>
+                    </text>
+                    <text id="45">
+                        <tspan x="681.083907" y="13">45</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="x-copy" transform="translate(814.000000, 345.000000)" fill-opacity="0.56" font-family="PingFangSC-Regular, PingFang SC" fill="#FFFFFF" font-size="12" font-weight="normal">
+                <text id="0">
+                    <tspan x="0" y="13">0</tspan>
+                </text>
+                <text id="15">
+                    <tspan x="97.297701" y="13">15</tspan>
+                </text>
+                <text id="30">
+                    <tspan x="194.595402" y="13">30</tspan>
+                </text>
+                <text id="45">
+                    <tspan x="291.893103" y="13">45</tspan>
+                </text>
+                <text id="0-copy-4">
+                    <tspan x="389.190804" y="13">0</tspan>
+                </text>
+                <text id="15">
+                    <tspan x="486.488505" y="13">15</tspan>
+                </text>
+                <text id="30">
+                    <tspan x="583.786206" y="13">30</tspan>
+                </text>
+                <text id="45">
+                    <tspan x="681.083907" y="13">45</tspan>
+                </text>
+            </g>
+            <path d="M39.9657545,230.876432 C115.855094,230.876436 129.406419,117.997588 173.099059,117.997588 C216.791699,117.997588 220.525508,165.793199 260.337188,151.195168 C306.448157,134.287331 300.367051,284.994825 331.017789,284.994825 C361.668526,284.994825 351.445527,91.089821 394.447113,91.0898219 C457.739901,91.0898232 463.310203,184.173325 510.62498,161.507235 C565.293635,135.318278 560.776687,224.234435 585.106272,230.876432 C614.022178,238.770498 616.103363,109.795886 657.687218,91.0898219 C681.724118,80.2770729 704.161676,120.843282 740.566812,138.696443 C776.971949,156.549604 805.784612,105.626709 820.922487,105.626709 C937.713946,105.626708 864.930772,169.270351 912.531715,169.270351 C960.132657,169.270351 968.508729,346.086474 1016.07285,267.325623 C1063.63698,188.564772 1050.02356,-12.4996218 1130.05647,71.8409827 C1210.08938,156.181587 1269.39842,285.989893 1300.07233,218.59253 C1330.74624,151.195168 1478.44585,82.4298726 1570.93241,121.968554" id="LIKES_GRAPH" stroke="#29B6F6" stroke-width="2"></path>
+            <g id="point">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="#FFFFFF" stroke-width="3" fill="#29B6F6" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
