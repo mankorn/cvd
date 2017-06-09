@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "95897926@qq.com",
+      "authorID" : 21706844,
+      "code": 1,
+      "parentCode": null,
+      "content": "未锁定：可以修改【产品类型】、【版本】、【编辑】\n锁定：无法进行上述操作\n通用：【拷贝】均可对当前版本拷贝一个副本，接着排列显示在后面",
+      "timestamp": "1477474737536",
+      "date": "26-Oct-2016 17:38",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "95897926@qq.com",
+      "authorID" : 21706844,
+      "code": 2,
+      "parentCode": null,
+      "content": "锁定后无法解锁",
+      "timestamp": "1477474772366",
+      "date": "26-Oct-2016 17:39",
+      "fileName": "",
+      "isRead": true
+    }
+  ]
+}
