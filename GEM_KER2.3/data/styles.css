@@ -11,6 +11,14 @@
 }
 .box_2 {
 }
+.box_3 {
+}
+.box3 {
+}
+.line {
+}
+.box_21 {
+}
 .ellipse {
   font-size:14px;
 }
@@ -26,6 +34,8 @@
   color:#169BD5;
 }
 ._图片 {
+}
+.ellipse1 {
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -76,7 +86,7 @@
   font-size:14px;
   text-align:left;
 }
-.line {
+.line1 {
 }
 .text_field {
   font-size:14px;
@@ -95,6 +105,12 @@
   font-size:14px;
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
 .table_cell {
 }
 ._流程形状 {
@@ -102,4 +118,6 @@
 .icon {
 }
 .flow_shape {
+}
+.table {
 }
